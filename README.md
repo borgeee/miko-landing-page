@@ -1,2 +1,2 @@
-# ktmsplit
+# Split Header Hero
 SplitScreen
