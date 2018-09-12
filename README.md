@@ -1,2 +1,2 @@
 # Split Header Hero
-SplitScreen
+Split header hereo with HTML, CSS, JS
