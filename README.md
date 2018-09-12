@@ -1,2 +1,2 @@
 # Split Header Hero
-Split header hereo with HTML, CSS, JS
+Split header hero with HTML, CSS, JS
